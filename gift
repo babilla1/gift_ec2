@@ -1,0 +1,6 @@
+#!/bin/bash
+
+#linux script
+yum install httpd wge finger -y
+
+
